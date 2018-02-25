@@ -31,7 +31,9 @@ notebook here, [`intro-to-r.ipynb` (**Estimated Time:
 ### 2. Get Started manipulating data in R
 http://r4ds.had.co.nz/transform.html
 Hadley Wickham's online book Intro to Data Science in R is a fantastic resource.
+
 To learn how to Tidy data go to Chapter 12:Tidy Data
+
 To learn how to transform and manipulate Data go to Chapter 5: Data Transformation
 
 Once you are comfortable with those tools, download the titanic data set 
@@ -44,14 +46,18 @@ an intro Kaggle Competition that taks data scienctists wth predicting who surviv
 ### 3. Machine Learning!!
 
 Learn how random forests work with these tutorials:
+
 [Implementation](https://www.tutorialspoint.com/r/r_random_forest.htm) 
+
 [Intuition](https://www.kdnuggets.com/2017/10/random-forests-explained.html)
 
 Then try it yourself on the titanic dataset.
+
 I have provided a reference solution in the following notebook: 
 [`random-forest.ipynb`](./random-forest.ipynb)
 
 ## 4.Take it one step further
 How can we optimize random forests? Which features are useful?
+
 Learn to fine tune your model with Caret.
 [Picking the best model with caret](https://www.kaggle.com/rtatman/picking-the-best-model-with-caret)
