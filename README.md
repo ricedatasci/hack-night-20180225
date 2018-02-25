@@ -49,9 +49,9 @@ Learn how random forests work with these tutorials:
 
 Then try it yourself on the titanic dataset.
 I have provided a reference solution in the following notebook: 
-['random-forest.ipynb'](./random-forest.ipynb)
+[`random-forest.ipynb`](./random-forest.ipynb)
 
-## Take it one step further
+## 4.Take it one step further
 How can we optimize random forests? What number of trees is optimal?
 Learn to fine tune your model with Caret.
-https://www.kaggle.com/rtatman/picking-the-best-model-with-caret
+[Picking the best model with caret](https://www.kaggle.com/rtatman/picking-the-best-model-with-caret)
